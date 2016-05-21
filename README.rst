@@ -25,6 +25,8 @@ Trent McConaghy, BigchainDB: a Scalable Blockchain Database, in Python
 
 David Higgins, Introduction to Julia for Python programmers
 
+- https://github.com/daveh19/pydataberlin2016
+
 
 Katharina Rasch, What every Data Scientist should know about data anonymization
 
