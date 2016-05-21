@@ -1,4 +1,4 @@
-PyData Berlin 2016 Meterials
+PyData Berlin 2016 Materials
 ============================
 
 
