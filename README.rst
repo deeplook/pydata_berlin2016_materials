@@ -64,6 +64,7 @@ Felix Biessmann, Predicting Political Views From Text
 Jie Bao, ExpAn - A Python Library for A/B Testing Analysis
 
 - https://github.com/zalando/expan
+- http://www.slideshare.net/JieBao3/expan-presentation-pydata-berlin-2016
 
 
 Tutorials
