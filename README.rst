@@ -52,6 +52,11 @@ Ryan Henderson, image-match: a python library for searching for similar images i
 
 - https://github.com/ascribe/image-match
 
+Ian Ozsvald, Statistically Solving Sneezes and Sniffles (a work in progress)
+
+ - https://speakerdeck.com/ianozsvald/statistically-solving-sniffles-step-by-step-a-work-in-progress
+ - http://ianozsvald.com/2016/05/07/statistically-solving-sneezes-and-sniffles-a-work-in-progress-report-at-pydatalondon-2016/
+
 
 Tutorials
 ---------
