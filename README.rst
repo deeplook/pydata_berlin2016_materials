@@ -57,6 +57,9 @@ Ian Ozsvald, Statistically Solving Sneezes and Sniffles (a work in progress)
  - https://speakerdeck.com/ianozsvald/statistically-solving-sniffles-step-by-step-a-work-in-progress
  - http://ianozsvald.com/2016/05/07/statistically-solving-sneezes-and-sniffles-a-work-in-progress-report-at-pydatalondon-2016/
 
+Felix Biessmann, Predicting Political Views From Text
+- https://github.com/felixbiessmann/
+
 
 Tutorials
 ---------
@@ -73,4 +76,3 @@ Mentioned tools:
 
 - Pybuilder: Tired of writing setup.py? http://pybuilder.github.io/
 - Sputnik: Package manager for Data https://github.com/spacy-io/sputnik
-
