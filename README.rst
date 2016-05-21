@@ -32,11 +32,13 @@ Katharina Rasch, What every Data Scientist should know about data anonymization
 
 - https://github.com/krasch/presentations/blob/master/pydata_Berlin_2016.pdf
 
+
 Alexander Sibiryakov, Frontera: open source, large scale web crawling framework
 
   - Tools:
   
     - https://github.com/scrapinghub/frontera
+
 
 Thomas Reineking, Plumbing in Python: Pipelines for Data Science Applications
 
@@ -56,10 +58,9 @@ Frank Gerhardt, Using Spark - with PySpark
 
 Lightning Talks
 ---------------
-TBA
 
 Mentioned tools:
+
 - Pybuilder: Tired of writing setup.py? http://pybuilder.github.io/
 - Sputnik: Package manager for Data https://github.com/spacy-io/sputnik
-
 
