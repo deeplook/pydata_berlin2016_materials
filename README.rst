@@ -64,6 +64,13 @@ Felix Biessmann, Predicting Political Views From Text
 
 - https://github.com/felixbiessmann/
 
+Anne Matthies, Zero-Administration Data Pipelines using AWS Simple Workflow
+
+
+Tool for creating Data pipelines using AWS: 
+
+Floto (Alpha tool warning) : https://github.com/babbel/floto
+
 
 Tutorials
 ---------
