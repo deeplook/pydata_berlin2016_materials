@@ -5,7 +5,10 @@ PyData Berlin 2016 Materials
 Keynotes
 --------
 
-Olivier Grisel
+Olivier Grisel, Evolution of the pydata ecosystem
+
+- http://ogrisel.github.io/decks/2016_pydata_berlin/ 
+- https://github.com/ogrisel/docker-distributed
 
 Julia Evans, How to trick a neural network ([talk notes](http://jvns.ca/blog/2016/05/21/a-few-notes-from-my-pydata-berlin-keynote/))
 
