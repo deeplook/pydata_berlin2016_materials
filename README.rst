@@ -10,7 +10,11 @@ Olivier Grisel, Evolution of the pydata ecosystem
 - http://ogrisel.github.io/decks/2016_pydata_berlin/ 
 - https://github.com/ogrisel/docker-distributed
 
-Julia Evans, How to trick a neural network ([talk notes](http://jvns.ca/blog/2016/05/21/a-few-notes-from-my-pydata-berlin-keynote/))
+
+Julia Evans, How to trick a neural network
+
+- http://jvns.ca/blog/2016/05/21/a-few-notes-from-my-pydata-berlin-keynote/
+
 
 We McKinney, Python Data Ecosystem
 
@@ -51,25 +55,32 @@ Thomas Reineking, Plumbing in Python: Pipelines for Data Science Applications
   
   - Yamal: Not yet Opensourced
 
+
 Ryan Henderson, image-match: a python library for searching for similar images in large corpora
 
 - https://github.com/ascribe/image-match
+
 
 Ian Ozsvald, Statistically Solving Sneezes and Sniffles (a work in progress)
 
 - https://speakerdeck.com/ianozsvald/statistically-solving-sniffles-step-by-step-a-work-in-progress
 - http://ianozsvald.com/2016/05/07/statistically-solving-sneezes-and-sniffles-a-work-in-progress-report-at-pydatalondon-2016/
 
+
 Felix Biessmann, Predicting Political Views From Text
 
 - https://github.com/felixbiessmann/
 
+
+Jie Bao, ExpAn - A Python Library for A/B Testing Analysis
+
+- https://github.com/zalando/expan
+- http://www.slideshare.net/JieBao3/expan-presentation-pydata-berlin-2016
+
+
 Anne Matthies, Zero-Administration Data Pipelines using AWS Simple Workflow
 
-
-Tool for creating Data pipelines using AWS: 
-
-Floto (Alpha tool warning) : https://github.com/babbel/floto
+- https://github.com/babbel/floto
 
 
 Tutorials
