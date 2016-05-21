@@ -5,10 +5,7 @@ PyData Berlin 2016 Materials
 Keynotes
 --------
 
-Olivier Grisel, Evolution of the pydata ecosystem
-
-- http://ogrisel.github.io/decks/2016_pydata_berlin/ 
-- https://github.com/ogrisel/docker-distributed
+Olivier Grisel
 
 Julia Evans, How to trick a neural network ([talk notes](http://jvns.ca/blog/2016/05/21/a-few-notes-from-my-pydata-berlin-keynote/))
 
@@ -63,6 +60,10 @@ Ian Ozsvald, Statistically Solving Sneezes and Sniffles (a work in progress)
 Felix Biessmann, Predicting Political Views From Text
 
 - https://github.com/felixbiessmann/
+
+Jie Bao, ExpAn - A Python Library for A/B Testing Analysis
+
+- https://github.com/zalando/expan
 
 
 Tutorials
