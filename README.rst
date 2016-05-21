@@ -83,6 +83,69 @@ Anne Matthies, Zero-Administration Data Pipelines using AWS Simple Workflow
 - https://github.com/babbel/floto
 
 
+Frank Kaufer, Building a polyglot Data Science Platform on Big Data systems.
+
+Anton Dubrau, Using small data in the client instead of big data in the cloud
+
+Nils Magnus, Dealing with TBytes of Data in Realtime
+
+Abhishek Thakur, Classifying Search Queries without User Click Data
+
+Nathan Epstein, Machine Learning at Scale
+
+Angelos Kapsimanis, The Simple Leads To The Spectacular
+
+Edouard Fouché, Accelerating Python Analytics by In-Database Processing
+
+Jessica Palmer, Python and TouchDesigner for Interactive Experiments
+
+Maciej Gryka, Removing Soft Shadows with Hard Data
+
+Andreas Lattner, Setting up predictive analytics services with Palladium
+
+Martina Pugliese, Spotting trends and tailoring recommendations: PySpark on Big Data in fashion
+
+Andrej Warkentin, Visualizing FragDenStaat.de
+
+James Powell, The kwarg problem
+
+Moritz Neeb, Bayesian Optimization and it's application to Neural Networks"
+
+Kashif Rasul, What's new in Deep Learning?
+
+Katharine Jarmul, Holy D@t*! How to Deal with Imperfect, Unclean Datasets
+
+Jakob van Santen, The IceCube data pipeline from the South Pole to publication
+
+Matthew Honnibal, Designing spaCy: A high-performance natural language processing (NLP) library written in Cython
+
+Valentine Gogichashvili, Data Integration in the World of Microservices
+
+Daniel Moisset, Bridging the gap: from Data Science to service
+
+Michelle Tran Chain, Loop & Group: How Celery Empowered our Data Scientists to Take Control of our Data Pipeline
+
+Guertel Idai, Artificial Body Representation in Robots, Expectation and Surprise
+
+Nora Neumann, Usable A/B testing – A Bayesian approach
+
+Robert Meyer, pypet: A Python Toolkit for Simulations and Numerical Experiments
+
+Ronert Obst and Dat Tran, PySpark in Practice
+
+Juha Suomalainen, Visualizing research data: Challenges of combining different datasources
+
+Danny Bickson, Python based predictive analytics with GraphLab Create
+
+Jose Quesada, A full Machine learning pipeline in Scikit-learn vs in scala-Spark: pros and cons
+
+Fang Xu, Connecting Keywords to Knowledge Base Using Search Keywords and Wikidata
+
+Delia Rusu, Estimating stock price correlations using Wikipedia
+
+Dr. Markus Abel, Python Learns to Control Complex Systems
+
+
 Tutorials
 ---------
 
