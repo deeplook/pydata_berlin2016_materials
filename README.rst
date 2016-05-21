@@ -37,16 +37,16 @@ Katharina Rasch, What every Data Scientist should know about data anonymization
 
 Alexander Sibiryakov, Frontera: open source, large scale web crawling framework
 
-  - Tools:
+- Tools:
   
-    - https://github.com/scrapinghub/frontera
+  - https://github.com/scrapinghub/frontera
 
 
 Thomas Reineking, Plumbing in Python: Pipelines for Data Science Applications
 
-  - Tools:
+- Tools:
   
-    - Yamal: Not yet Opensourced
+  - Yamal: Not yet Opensourced
 
 Ryan Henderson, image-match: a python library for searching for similar images in large corpora
 
@@ -54,10 +54,11 @@ Ryan Henderson, image-match: a python library for searching for similar images i
 
 Ian Ozsvald, Statistically Solving Sneezes and Sniffles (a work in progress)
 
- - https://speakerdeck.com/ianozsvald/statistically-solving-sniffles-step-by-step-a-work-in-progress
- - http://ianozsvald.com/2016/05/07/statistically-solving-sneezes-and-sniffles-a-work-in-progress-report-at-pydatalondon-2016/
+- https://speakerdeck.com/ianozsvald/statistically-solving-sniffles-step-by-step-a-work-in-progress
+- http://ianozsvald.com/2016/05/07/statistically-solving-sneezes-and-sniffles-a-work-in-progress-report-at-pydatalondon-2016/
 
 Felix Biessmann, Predicting Political Views From Text
+
 - https://github.com/felixbiessmann/
 
 
