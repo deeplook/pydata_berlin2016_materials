@@ -22,6 +22,8 @@ Daniel Kirsch, Functional Programming in Python
 
 Trent McConaghy, BigchainDB: a Scalable Blockchain Database, in Python
 
+- https://github.com/bigchaindb/bigchaindb
+
 
 David Higgins, Introduction to Julia for Python programmers
 
@@ -46,6 +48,9 @@ Thomas Reineking, Plumbing in Python: Pipelines for Data Science Applications
   
     - Yamal: Not yet Opensourced
 
+Ryan Henderson, image-match: a python library for searching for similar images in large corpora
+
+- https://github.com/ascribe/image-match
 
 
 Tutorials
