@@ -31,6 +31,14 @@ Katharina Rasch, What every Data Scientist should know about data anonymization
 - https://github.com/krasch/presentations/blob/master/pydata_Berlin_2016.pdf
 
 
+Tutorials
+---------
+
+Frank Gerhardt, Using Spark - with PySpark
+
+- https://gitlab.com/gerhardt.io/pyspark-workshop
+
+
 Lightning Talks
 ---------------
 
