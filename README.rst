@@ -7,7 +7,7 @@ Keynotes
 
 Olivier Grisel
 
-Julia Evans, How to trick a neural network
+Julia Evans, How to trick a neural network ([talk notes](http://jvns.ca/blog/2016/05/21/a-few-notes-from-my-pydata-berlin-keynote/))
 
 We McKinney, Python Data Ecosystem
 
