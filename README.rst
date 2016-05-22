@@ -82,6 +82,9 @@ Anne Matthies, Zero-Administration Data Pipelines using AWS Simple Workflow
 
 - https://github.com/babbel/floto
 
+Daniel Moisset, Bridging the gap: from Data Science to service
+
+- https://github.com/machinalis/slides/tree/master/data-science-to-service
 
 Frank Kaufer, Building a polyglot Data Science Platform on Big Data systems.
 
@@ -120,8 +123,6 @@ Jakob van Santen, The IceCube data pipeline from the South Pole to publication
 Matthew Honnibal, Designing spaCy: A high-performance natural language processing (NLP) library written in Cython
 
 Valentine Gogichashvili, Data Integration in the World of Microservices
-
-Daniel Moisset, Bridging the gap: from Data Science to service
 
 Michelle Tran Chain, Loop & Group: How Celery Empowered our Data Scientists to Take Control of our Data Pipeline
 
