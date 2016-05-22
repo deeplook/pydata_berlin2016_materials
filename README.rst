@@ -44,16 +44,12 @@ Katharina Rasch, What every Data Scientist should know about data anonymization
 
 Alexander Sibiryakov, Frontera: open source, large scale web crawling framework
 
-- Tools:
-  
-  - https://github.com/scrapinghub/frontera
+- https://github.com/scrapinghub/frontera
 
 
 Thomas Reineking, Plumbing in Python: Pipelines for Data Science Applications
 
-- Tools:
-  
-  - Yamal: Not yet Opensourced
+- Yamal: Not yet Opensourced
 
 
 Ryan Henderson, image-match: a python library for searching for similar images in large corpora
@@ -153,6 +149,11 @@ Tutorials
 Frank Gerhardt, Using Spark - with PySpark
 
 - https://gitlab.com/gerhardt.io/pyspark-workshop
+
+
+Lukasz Czarnecki, Brand recognition in real-life photos using deep learning
+
+- http://de.slideshare.net/ukaszCzarnecki/brand-recognition-in-reallife-photos-using-deep-learning-lukasz-czarnecki-pydata-berlin-2016/
 
 
 Lightning Talks
