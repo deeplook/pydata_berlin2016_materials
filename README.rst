@@ -158,6 +158,11 @@ Frank Gerhardt, Using Spark - with PySpark
 Lightning Talks
 ---------------
 
+Piotr Migdał, Teaching machine learning
+
+- https://speakerdeck.com/pmigdal/teaching-machine-learning
+- http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html
+
 Mentioned tools:
 
 - Pybuilder: Tired of writing setup.py? http://pybuilder.github.io/
