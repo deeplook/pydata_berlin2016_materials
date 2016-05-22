@@ -156,6 +156,9 @@ Lukasz Czarnecki, Brand recognition in real-life photos using deep learning
 - http://de.slideshare.net/ukaszCzarnecki/brand-recognition-in-reallife-photos-using-deep-learning-lukasz-czarnecki-pydata-berlin-2016/
 
 
+Shoaib Burq, Which city is the cultural capital of Europe? An introduction to Apache PySpark for GeoAnalytics
+
+
 Lightning Talks
 ---------------
 
