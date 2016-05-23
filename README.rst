@@ -78,9 +78,16 @@ Anne Matthies, Zero-Administration Data Pipelines using AWS Simple Workflow
 
 - https://github.com/babbel/floto
 
+
 Daniel Moisset, Bridging the gap: from Data Science to service
 
 - https://github.com/machinalis/slides/tree/master/data-science-to-service
+
+
+Katharine Jarmul, Holy D@t*! How to Deal with Imperfect, Unclean Datasets
+
+- https://docs.google.com/presentation/d/1G-lgHKTdrqeeJhcvVmd7C9gOIfTRe429zhBN6lmKKzA/
+
 
 Frank Kaufer, Building a polyglot Data Science Platform on Big Data systems.
 
@@ -111,8 +118,6 @@ James Powell, The kwarg problem
 Moritz Neeb, Bayesian Optimization and it's application to Neural Networks"
 
 Kashif Rasul, What's new in Deep Learning?
-
-Katharine Jarmul, Holy D@t*! How to Deal with Imperfect, Unclean Datasets
 
 Jakob van Santen, The IceCube data pipeline from the South Pole to publication
 
