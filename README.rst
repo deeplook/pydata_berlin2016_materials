@@ -16,7 +16,9 @@ Julia Evans, How to trick a neural network
 - http://jvns.ca/blog/2016/05/21/a-few-notes-from-my-pydata-berlin-keynote/
 
 
-We McKinney, Python Data Ecosystem
+We McKinney, Python Data Ecosystem: Thoughts on Building for the Future
+
+- http://de.slideshare.net/wesm/python-data-ecosystem-thoughts-on-building-for-the-future
 
 
 Regular
@@ -168,6 +170,11 @@ Shoaib Burq, Which city is the cultural capital of Europe? An introduction to Ap
 
 Lightning Talks
 ---------------
+
+Oliver Zeigermann
+
+- https://djcordhose.github.io/big-data-visualization/2016_pydata_berlin_lightning.html#/
+
 
 Piotr Migdał, Teaching machine learning
 
