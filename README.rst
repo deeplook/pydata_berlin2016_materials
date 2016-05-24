@@ -100,6 +100,10 @@ Frank Kaufer, Building Polyglot Data Science Platform on Big Data Systems
 
 - https://speakerdeck.com/fkaufer/polyglot-data-science-platforms-on-big-data-systems
 
+Lukasz Czarnecki, Brand recognition in real-life photos using deep learning
+
+- http://de.slideshare.net/ukaszCzarnecki/brand-recognition-in-reallife-photos-using-deep-learning-lukasz-czarnecki-pydata-berlin-2016/
+
 Anton Dubrau, Using small data in the client instead of big data in the cloud
 
 Nils Magnus, Dealing with TBytes of Data in Realtime
@@ -162,11 +166,9 @@ Frank Gerhardt, Using Spark - with PySpark
 
 - https://gitlab.com/gerhardt.io/pyspark-workshop
 
+Katharine Jarmul, Data Wrangling with Python
 
-Lukasz Czarnecki, Brand recognition in real-life photos using deep learning
-
-- http://de.slideshare.net/ukaszCzarnecki/brand-recognition-in-reallife-photos-using-deep-learning-lukasz-czarnecki-pydata-berlin-2016/
-
+Mike Müller, Single-source Python 2/3
 
 Lev Konstantinovskiy, Practical Word2vec in Gensim 
 
