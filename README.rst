@@ -91,6 +91,11 @@ Katharine Jarmul, Holy D@t*! How to Deal with Imperfect, Unclean Datasets
 - https://docs.google.com/presentation/d/1G-lgHKTdrqeeJhcvVmd7C9gOIfTRe429zhBN6lmKKzA/
 
 
+Nora Neumann, Usable A/B testing – A Bayesian approach
+
+- https://speakerdeck.com/nneu/b-testing-a-bayesian-approach
+
+
 Frank Kaufer, Building a polyglot Data Science Platform on Big Data systems.
 
 Anton Dubrau, Using small data in the client instead of big data in the cloud
@@ -130,8 +135,6 @@ Valentine Gogichashvili, Data Integration in the World of Microservices
 Michelle Tran Chain, Loop & Group: How Celery Empowered our Data Scientists to Take Control of our Data Pipeline
 
 Guertel Idai, Artificial Body Representation in Robots, Expectation and Surprise
-
-Nora Neumann, Usable A/B testing – A Bayesian approach
 
 Robert Meyer, pypet: A Python Toolkit for Simulations and Numerical Experiments
 
