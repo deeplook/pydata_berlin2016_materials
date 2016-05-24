@@ -96,7 +96,9 @@ Nora Neumann, Usable A/B testing – A Bayesian approach
 - https://speakerdeck.com/nneu/b-testing-a-bayesian-approach
 
 
-Frank Kaufer, Building a polyglot Data Science Platform on Big Data systems.
+Frank Kaufer, Building Polyglot Data Science Platform on Big Data Systems
+
+- https://speakerdeck.com/fkaufer/polyglot-data-science-platforms-on-big-data-systems
 
 Anton Dubrau, Using small data in the client instead of big data in the cloud
 
