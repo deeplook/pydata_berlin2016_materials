@@ -100,9 +100,16 @@ Frank Kaufer, Building Polyglot Data Science Platform on Big Data Systems
 
 - https://speakerdeck.com/fkaufer/polyglot-data-science-platforms-on-big-data-systems
 
+
 Lukasz Czarnecki, Brand recognition in real-life photos using deep learning
 
 - http://de.slideshare.net/ukaszCzarnecki/brand-recognition-in-reallife-photos-using-deep-learning-lukasz-czarnecki-pydata-berlin-2016/
+
+
+Edouard Fouché, Accelerating Python Analytics by In-Database Processing
+
+- https://ibmdbanalytics.github.io/pydata-berlin-2016-ibmdbpy.slides.html
+
 
 Anton Dubrau, Using small data in the client instead of big data in the cloud
 
@@ -113,8 +120,6 @@ Abhishek Thakur, Classifying Search Queries without User Click Data
 Nathan Epstein, Machine Learning at Scale
 
 Angelos Kapsimanis, The Simple Leads To The Spectacular
-
-Edouard Fouché, Accelerating Python Analytics by In-Database Processing
 
 Jessica Palmer, Python and TouchDesigner for Interactive Experiments
 
