@@ -161,6 +161,10 @@ Fang Xu, Connecting Keywords to Knowledge Base Using Search Keywords and Wikidat
 
 Delia Rusu, Estimating stock price correlations using Wikipedia
 
+- https://speakerdeck.com/deliarusu/estimating-stock-price-correlations-using-wikipedia
+- https://github.com/deliarusu/wikipedia-correlation
+
+
 Dr. Markus Abel, Python Learns to Control Complex Systems
 
 
