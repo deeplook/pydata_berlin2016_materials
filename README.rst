@@ -171,9 +171,11 @@ Frank Gerhardt, Using Spark - with PySpark
 
 - https://gitlab.com/gerhardt.io/pyspark-workshop
 
-Katharine Jarmul, Data Wrangling with Python
-
 Mike Müller, Single-source Python 2/3
+
+- http://www.python-academy.com/download/pydatabln2016/Single_Source_Python_2_3.pdf
+
+Katharine Jarmul, Data Wrangling with Python
 
 Lev Konstantinovskiy, Practical Word2vec in Gensim 
 
