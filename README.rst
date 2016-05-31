@@ -5,7 +5,7 @@ PyData Berlin 2016 Materials
 Keynotes
 --------
 
-Olivier Grisel, Evolution of the pydata ecosystem
+Olivier Grisel, Predictive Modelling with Python
 
 - http://ogrisel.github.io/decks/2016_pydata_berlin/ 
 - https://github.com/ogrisel/docker-distributed
