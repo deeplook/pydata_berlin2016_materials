@@ -139,6 +139,8 @@ Kashif Rasul, What's new in Deep Learning?
 
 Jakob van Santen, The IceCube data pipeline from the South Pole to publication
 
+- http://icecube.wisc.edu/~jvansanten/pasties/slides/2016-05-21%20PyData.pdf
+
 Matthew Honnibal, Designing spaCy: A high-performance natural language processing (NLP) library written in Cython
 
 Valentine Gogichashvili, Data Integration in the World of Microservices
