@@ -183,7 +183,11 @@ Mike Müller, Single-source Python 2/3
 
 Katharine Jarmul, Data Wrangling with Python
 
+- https://github.com/kjam/data-wrangling-pycon
+
 Lev Konstantinovskiy, Practical Word2vec in Gensim 
+
+- https://github.com/RaRe-Technologies/movie-plots-by-genre
 
 Shoaib Burq, Which city is the cultural capital of Europe? An introduction to Apache PySpark for GeoAnalytics
 
