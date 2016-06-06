@@ -111,6 +111,17 @@ Edouard Fouché, Accelerating Python Analytics by In-Database Processing
 - https://ibmdbanalytics.github.io/pydata-berlin-2016-ibmdbpy.slides.html
 
 
+Delia Rusu, Estimating stock price correlations using Wikipedia
+
+- https://speakerdeck.com/deliarusu/estimating-stock-price-correlations-using-wikipedia
+- https://github.com/deliarusu/wikipedia-correlation
+
+
+Jakob van Santen, The IceCube data pipeline from the South Pole to publication
+
+- http://icecube.wisc.edu/~jvansanten/pasties/slides/2016-05-21%20PyData.pdf
+
+
 Anton Dubrau, Using small data in the client instead of big data in the cloud
 
 Nils Magnus, Dealing with TBytes of Data in Realtime
@@ -137,10 +148,6 @@ Moritz Neeb, Bayesian Optimization and it's application to Neural Networks"
 
 Kashif Rasul, What's new in Deep Learning?
 
-Jakob van Santen, The IceCube data pipeline from the South Pole to publication
-
-- http://icecube.wisc.edu/~jvansanten/pasties/slides/2016-05-21%20PyData.pdf
-
 Matthew Honnibal, Designing spaCy: A high-performance natural language processing (NLP) library written in Cython
 
 Valentine Gogichashvili, Data Integration in the World of Microservices
@@ -160,12 +167,6 @@ Danny Bickson, Python based predictive analytics with GraphLab Create
 Jose Quesada, A full Machine learning pipeline in Scikit-learn vs in scala-Spark: pros and cons
 
 Fang Xu, Connecting Keywords to Knowledge Base Using Search Keywords and Wikidata
-
-Delia Rusu, Estimating stock price correlations using Wikipedia
-
-- https://speakerdeck.com/deliarusu/estimating-stock-price-correlations-using-wikipedia
-- https://github.com/deliarusu/wikipedia-correlation
-
 
 Dr. Markus Abel, Python Learns to Control Complex Systems
 
