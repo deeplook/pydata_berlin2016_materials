@@ -122,6 +122,11 @@ Jakob van Santen, The IceCube data pipeline from the South Pole to publication
 - http://icecube.wisc.edu/~jvansanten/pasties/slides/2016-05-21%20PyData.pdf
 
 
+Moritz Neeb, Bayesian Optimization and it's application to Neural Networks"
+
+- https://slack-files.com/T18U1ASNQ-F1AHX36HG-22a535f1a2
+
+
 Anton Dubrau, Using small data in the client instead of big data in the cloud
 
 Nils Magnus, Dealing with TBytes of Data in Realtime
@@ -143,8 +148,6 @@ Martina Pugliese, Spotting trends and tailoring recommendations: PySpark on Big 
 Andrej Warkentin, Visualizing FragDenStaat.de
 
 James Powell, The kwarg problem
-
-Moritz Neeb, Bayesian Optimization and it's application to Neural Networks"
 
 Kashif Rasul, What's new in Deep Learning?
 
