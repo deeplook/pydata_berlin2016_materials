@@ -126,6 +126,10 @@ Moritz Neeb, Bayesian Optimization and it's application to Neural Networks"
 
 - https://slack-files.com/T18U1ASNQ-F1AHX36HG-22a535f1a2
 
+Kashif Rasul, What's new in Deep Learning?
+
+- https://bitly.com/new-deep-learning
+- https://bitly.com/cifar10-resnet
 
 Anton Dubrau, Using small data in the client instead of big data in the cloud
 
@@ -148,8 +152,6 @@ Martina Pugliese, Spotting trends and tailoring recommendations: PySpark on Big 
 Andrej Warkentin, Visualizing FragDenStaat.de
 
 James Powell, The kwarg problem
-
-Kashif Rasul, What's new in Deep Learning?
 
 Matthew Honnibal, Designing spaCy: A high-performance natural language processing (NLP) library written in Cython
 
