@@ -7,7 +7,7 @@ Keynotes
 
 Olivier Grisel, Predictive Modelling with Python
 
-- http://ogrisel.github.io/decks/2016_pydata_berlin/ 
+- http://ogrisel.github.io/decks/2016_pydata_berlin/
 - https://github.com/ogrisel/docker-distributed
 
 
@@ -131,13 +131,15 @@ Kashif Rasul, What's new in Deep Learning?
 - https://bitly.com/new-deep-learning
 - https://bitly.com/cifar10-resnet
 
+Nathan Epstein, Machine Learning at Scale
+
+- https://github.com/NathanEpstein/pydata-berlin
+
 Anton Dubrau, Using small data in the client instead of big data in the cloud
 
 Nils Magnus, Dealing with TBytes of Data in Realtime
 
 Abhishek Thakur, Classifying Search Queries without User Click Data
-
-Nathan Epstein, Machine Learning at Scale
 
 Angelos Kapsimanis, The Simple Leads To The Spectacular
 
@@ -191,7 +193,7 @@ Katharine Jarmul, Data Wrangling with Python
 
 - https://github.com/kjam/data-wrangling-pycon
 
-Lev Konstantinovskiy, Practical Word2vec in Gensim 
+Lev Konstantinovskiy, Practical Word2vec in Gensim
 
 - https://github.com/RaRe-Technologies/movie-plots-by-genre
 
