@@ -126,14 +126,22 @@ Moritz Neeb, Bayesian Optimization and it's application to Neural Networks"
 
 - https://slack-files.com/T18U1ASNQ-F1AHX36HG-22a535f1a2
 
+
 Kashif Rasul, What's new in Deep Learning?
 
 - https://bitly.com/new-deep-learning
 - https://bitly.com/cifar10-resnet
 
+
 Nathan Epstein, Machine Learning at Scale
 
 - https://github.com/NathanEpstein/pydata-berlin
+
+
+Ronert Obst and Dat Tran, PySpark in Practice
+
+- http://pydata2016.cfapps.io/#/
+
 
 Anton Dubrau, Using small data in the client instead of big data in the cloud
 
@@ -164,8 +172,6 @@ Michelle Tran Chain, Loop & Group: How Celery Empowered our Data Scientists to T
 Guertel Idai, Artificial Body Representation in Robots, Expectation and Surprise
 
 Robert Meyer, pypet: A Python Toolkit for Simulations and Numerical Experiments
-
-Ronert Obst and Dat Tran, PySpark in Practice
 
 Juha Suomalainen, Visualizing research data: Challenges of combining different datasources
 
