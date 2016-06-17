@@ -149,8 +149,6 @@ Nils Magnus, Dealing with TBytes of Data in Realtime
 
 Abhishek Thakur, Classifying Search Queries without User Click Data
 
-Angelos Kapsimanis, The Simple Leads To The Spectacular
-
 Jessica Palmer, Python and TouchDesigner for Interactive Experiments
 
 Maciej Gryka, Removing Soft Shadows with Hard Data
@@ -182,6 +180,8 @@ Jose Quesada, A full Machine learning pipeline in Scikit-learn vs in scala-Spark
 Fang Xu, Connecting Keywords to Knowledge Base Using Search Keywords and Wikidata
 
 Dr. Markus Abel, Python Learns to Control Complex Systems
+
+Angelos Kapsimanis, The Simple Leads To The Spectacular (Cancelled)
 
 
 Tutorials
