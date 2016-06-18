@@ -156,6 +156,7 @@ Maciej Gryka, Removing Soft Shadows with Hard Data
 Andreas Lattner, Setting up predictive analytics services with Palladium
 
 Martina Pugliese, Spotting trends and tailoring recommendations: PySpark on Big Data in fashion
+- https://github.com/martinapugliese/talks_presentations/tree/master/pydata_berlin_2016
 
 Andrej Warkentin, Visualizing FragDenStaat.de
 
