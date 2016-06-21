@@ -143,46 +143,83 @@ Ronert Obst and Dat Tran, PySpark in Practice
 - http://pydata2016.cfapps.io/#/
 
 
+Martina Pugliese, Spotting trends and tailoring recommendations: PySpark on Big Data in fashion
+
+- https://github.com/martinapugliese/talks_presentations/tree/master/pydata_berlin_2016
+
+Angelos Kapsimanis, The Simple Leads To The Spectacular (Cancelled)
+
 Anton Dubrau, Using small data in the client instead of big data in the cloud
+
+- did not respond, yet
 
 Nils Magnus, Dealing with TBytes of Data in Realtime
 
+- did not respond, yet
+
 Abhishek Thakur, Classifying Search Queries without User Click Data
+
+- did not respond, yet
 
 Jessica Palmer, Python and TouchDesigner for Interactive Experiments
 
+- did not respond, yet
+
 Maciej Gryka, Removing Soft Shadows with Hard Data
+
+- did not respond, yet
 
 Andreas Lattner, Setting up predictive analytics services with Palladium
 
-Martina Pugliese, Spotting trends and tailoring recommendations: PySpark on Big Data in fashion
-- https://github.com/martinapugliese/talks_presentations/tree/master/pydata_berlin_2016
+- did not respond, yet
 
 Andrej Warkentin, Visualizing FragDenStaat.de
 
+- did not respond, yet
+
 James Powell, The kwarg problem
+
+- did not respond, yet
 
 Matthew Honnibal, Designing spaCy: A high-performance natural language processing (NLP) library written in Cython
 
+- did not respond, yet
+
 Valentine Gogichashvili, Data Integration in the World of Microservices
+
+- did not respond, yet
 
 Michelle Tran Chain, Loop & Group: How Celery Empowered our Data Scientists to Take Control of our Data Pipeline
 
+- did not respond, yet
+
 Guertel Idai, Artificial Body Representation in Robots, Expectation and Surprise
+
+- did not respond, yet
 
 Robert Meyer, pypet: A Python Toolkit for Simulations and Numerical Experiments
 
+- did not respond, yet
+
 Juha Suomalainen, Visualizing research data: Challenges of combining different datasources
+
+- did not respond, yet
 
 Danny Bickson, Python based predictive analytics with GraphLab Create
 
+- did not respond, yet
+
 Jose Quesada, A full Machine learning pipeline in Scikit-learn vs in scala-Spark: pros and cons
+
+- did not respond, yet
 
 Fang Xu, Connecting Keywords to Knowledge Base Using Search Keywords and Wikidata
 
+- did not respond, yet
+
 Dr. Markus Abel, Python Learns to Control Complex Systems
 
-Angelos Kapsimanis, The Simple Leads To The Spectacular (Cancelled)
+- did not respond, yet
 
 
 Tutorials
