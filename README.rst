@@ -143,6 +143,11 @@ Ronert Obst and Dat Tran, PySpark in Practice
 - http://pydata2016.cfapps.io/#/
 
 
+Jose Quesada, A full Machine learning pipeline in Scikit-learn vs in scala-Spark: pros and cons
+
+- https://files3.mixmaxusercontent.com/Qb5xzixaAsFjdsNbn/f/TZIGovHLNm7Is9Z5P/?messageId=lC47ZAHVG9riuwJkc&rn=Iibh1mclh2RgUnbpRkI&re=ISZk5ibpxmclJWLulmLul2dyFGZA5WYtJXZodmI
+
+
 Martina Pugliese, Spotting trends and tailoring recommendations: PySpark on Big Data in fashion
 
 - https://github.com/martinapugliese/talks_presentations/tree/master/pydata_berlin_2016
@@ -206,10 +211,6 @@ Juha Suomalainen, Visualizing research data: Challenges of combining different d
 - did not respond, yet
 
 Danny Bickson, Python based predictive analytics with GraphLab Create
-
-- did not respond, yet
-
-Jose Quesada, A full Machine learning pipeline in Scikit-learn vs in scala-Spark: pros and cons
 
 - did not respond, yet
 
